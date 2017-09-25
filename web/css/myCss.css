@@ -1,0 +1,243 @@
+
+body{
+    background-color: #F5FFFA;
+}
+
+.backgroundColor{
+     background-color: #F5FFFA !important;
+}
+
+.dropdown-my{
+    color:#f2fafa; 
+    background-color:#3BA4C7; 
+    background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);-webkit-box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa; 
+    -moz-box-shadow: -6px 6px 20px #bababa,  inset -1px 1px 7px #f0f2fa;  
+    box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa;  
+    opacity:0.87; 
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=87); 
+    filter: alpha(opacity=87); 
+}
+
+option{
+    color: #000;
+    background-color: #FFFFFF;
+}
+
+.homeButton{
+    text-decoration:none; text-align:center; 
+    padding:100px 100px; 
+    border:none; 
+    -webkit-border-radius:9px;
+    -moz-border-radius:9px; 
+    border-radius: 9px; 
+    font:50px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+    font-weight:bold; 
+    color:#E5FFFF; 
+    background-color:#3BA4C7; 
+    font:50px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+    font-weight:bold; 
+    color:#f2fafa; 
+    background-color:#3BA4C7;   
+    -webkit-box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa; 
+    -moz-box-shadow: -6px 6px 20px #bababa,  inset -1px 1px 7px #f0f2fa;  
+    box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa;  
+    opacity:0.87; 
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=87); 
+    filter: alpha(opacity=87); 
+}
+
+.homeButton:hover{
+    background-color:#3BA4C7
+}
+
+.marginTop150{
+    margin-top: 100px; 
+    margin-bottom: 100px;
+    width: 450px;
+    height: 50px;
+    font:25px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+    font-weight:bold; 
+    color:#f2fafa; 
+    background-color:#3BA4C7; 
+    background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);   
+    -webkit-box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa; 
+    -moz-box-shadow: -6px 6px 20px #bababa,  inset -1px 1px 7px #f0f2fa;  
+    box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa;  
+    opacity:0.87; 
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=87); 
+    filter: alpha(opacity=87); 
+}
+.marginTop150:hover{
+    background-color:#3BA4C7
+}
+
+.myBtn{
+    font-weight:bold; 
+    color:#f2fafa; 
+    background-color:#3BA4C7; 
+    background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);   
+    -webkit-box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa; 
+    -moz-box-shadow: -6px 6px 20px #bababa,  inset -1px 1px 7px #f0f2fa;  
+    box-shadow:-6px 6px 20px #bababa, inset -1px 1px 7px #f0f2fa;  
+    opacity:0.87; 
+    -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=87); 
+    filter: alpha(opacity=87); 
+}
+
+.myBtn:hover{
+    background-color:#3BA4C7
+}
+
+.marginTop20{
+    margin-top: 20px;
+}
+
+.marginTop30{
+    margin-top: 30px;
+}
+
+.marginRight{
+    margin-right: 20px 
+}
+
+.homeH1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sizeStatus{
+    width: 100px;
+}
+
+.sizeName{
+    width: 140px;
+}
+
+.size{
+    width: 100px; 
+}
+
+.sizePosition{
+    width: 150px; 
+}
+
+.sizeDescription{
+    width: 350px; 
+}
+
+.floatLeft{
+    float: left;
+}
+
+@media screen and (max-width : 1199px){
+    .size{
+        width: 80px; 
+    }
+    .sizeStatus{
+        width: 70px;
+    }
+    .sizeDescription{
+        width: 250px; 
+    }
+
+    .sizeName{
+        width: 127px;
+    }
+
+    .sizePosition{
+    width: 130px; 
+}
+}
+
+@media screen and (max-width : 991px){
+    .size{
+        width: 70px; 
+    }
+    .sizeStatus{
+        width: 110px;
+    }
+    .sizeDescription{
+        width: 170px; 
+    }
+
+    .sizeName{
+        width: 90px;
+    }
+
+    .sizePosition{
+        width: 60px; 
+    }
+}
+
+a {outline: 0 !important;}
+
+
+.modal {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.modal_container {
+    padding: 20px;
+    background-color: #fff;
+    color: #000;
+    height: auto;
+}
+
+.textSize{
+    font-size: x-large !important;
+}
+
+
+
+
+
+
+
+
+.margin-top-5{
+    margin-top: -5px !important;
+}
+
+#panelCharact{
+    margin: 0;
+     padding: 0;
+}
+
+.mypanel{
+    margin: 0;
+    border: none;
+}
+
+.mypanelheading{
+        height: 50px;
+        border: none;
+}
+
+.mypanelbody{
+    
+}
+
+
+.myRow{
+    margin-left: -30px;
+}
+
+.myRow2{
+    margin-left: -15px;
+}
+
+.hidden {
+display: none;
+}
+
+.btn-characteristiks{
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+
